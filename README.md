@@ -7,5 +7,13 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/swatimishra02/Joint-DR-DME-Grading---CANet-Implementation
+cd DR DME grading
+```
+### 2. Setup
+- pip install -r requirements.txt
+- Download the [IDRiD Dataset]{https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid} and place it in the IDRiD folder.
+- Train the model : python train.py
+- visualise results : python results.py
+- To create SHAP explanation graphs, run: shap_viz.py
+
