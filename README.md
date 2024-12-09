@@ -17,7 +17,4 @@ cd DR DME grading
 - visualise results : python results.py
 - To create SHAP explanation graphs, run: shap_viz.py
 
-![Sample Image](images/Screenshot 2024-10-24 150555.png
- "This is a sample image")
-![Sample Image](images/sample.png "This is a sample image")
-![Sample Image](images/sample.png "This is a sample image")
+
