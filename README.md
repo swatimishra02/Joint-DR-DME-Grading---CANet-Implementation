@@ -18,3 +18,5 @@ cd DR DME grading
 - To create SHAP explanation graphs, run: shap_viz.py
 
 ![Sample Image](images/retinal_fundus.png "This is a sample image")
+![Sample Image](images/shap_results.png "This is a sample image")
+![Sample Image](images/test_grading.png "This is a sample image")
