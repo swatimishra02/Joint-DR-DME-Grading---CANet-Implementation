@@ -16,7 +16,11 @@ cd DR DME grading
 - Train the model : python train.py
 - visualise results : python results.py
 - To create SHAP explanation graphs, run: shap_viz.py
-
+  
 ![Fundus Image](images/retinal_fundus.png "This is a sample image")
-<img src="images/shap_results.png" alt="SHAP Results" width="300">
+
+SHAP implementation results
+<img src="images/shap_results.png" alt="SHAP Results" width="500">
+
+Model performance on test images
 ![Test Image](images/test_grading.png "This is a sample image")
