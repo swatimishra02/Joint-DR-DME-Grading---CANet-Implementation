@@ -17,6 +17,6 @@ cd DR DME grading
 - visualise results : python results.py
 - To create SHAP explanation graphs, run: shap_viz.py
 
-![Sample Image](images/retinal_fundus.png "This is a sample image")
-![Sample Image](images/shap_results.png "This is a sample image")
-![Sample Image](images/test_grading.png "This is a sample image")
+![Fundus Image](images/retinal_fundus.png "This is a sample image")
+<img src="images/shap_results.png" alt="SHAP Results" width="300">
+![Test Image](images/test_grading.png "This is a sample image")
