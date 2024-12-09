@@ -3,6 +3,8 @@
 ## Paper
 [CANet: Cross-Disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading](https://pubmed.ncbi.nlm.nih.gov/31714219/)
 
+![Fundus Image](images/retinal_fundus.png "This is a sample image")
+
 ## Setup
 
 ### 1. Clone the repository
@@ -17,10 +19,10 @@ cd DR DME grading
 - visualise results : python results.py
 - To create SHAP explanation graphs, run: shap_viz.py
   
-![Fundus Image](images/retinal_fundus.png "This is a sample image")
 
-SHAP implementation results
+
+#### SHAP implementation results
 <img src="images/shap_results.png" alt="SHAP Results" width="500">
 
-Model performance on test images
+#### Model performance on test images
 ![Test Image](images/test_grading.png "This is a sample image")
