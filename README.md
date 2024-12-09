@@ -4,7 +4,7 @@
 [CANet: Cross-Disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading](https://pubmed.ncbi.nlm.nih.gov/31714219/)
 
 ![Fundus Image](images/retinal_fundus.png "This is a sample image")
-
+#### Sample retinal fundus image from IDRiD dataset with DR DME Grade 2
 ## Setup
 
 ### 1. Clone the repository
